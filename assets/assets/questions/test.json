@@ -1,0 +1,15 @@
+[
+  {
+    "question": "Funktioniert alles?",
+    "answers": [
+      {
+        "text": "Ja!",
+        "isCorrect": false
+      },
+      {
+        "text": "Nein",
+        "isCorrect": true
+      }
+    ]
+  }
+]
