@@ -66246,7 +66246,7 @@ j(a){return"Question{question: "+this.a+", answers: "+A.h(this.b)+", image: "+A.
 A.n0.prototype={
 af(){return A.auG()}}
 A.MG.prototype={
-R(a){var s,r,q=null,p=t.E,o=A.afn(A.Gt(A.a([A.aiE(-0.45,A.ain("assets/images/_.svg",75,"Hazel",75)),A.kl(q,B.wp,q,q,q,q,q,B.bY,q)],p),B.bX,B.c2,B.c3),100)
+R(a){var s,r,q=null,p=t.E,o=A.afn(A.Gt(A.a([A.aiE(-0.45,A.ain("assets/images/hazel.svg",75,"Hazel",75)),A.kl(q,B.wp,q,q,q,q,q,B.bY,q)],p),B.bX,B.c2,B.c3),100)
 p=A.a([B.bj,B.Rt],p)
 s=$.alF
 r=A.y(s).h("at<1>")
@@ -66320,7 +66320,7 @@ $S:388}
 A.vu.prototype={
 af(){return new A.MH(B.n)}}
 A.MH.prototype={
-R(a){var s,r,q,p=this,o=null,n=" %\n                    Fehler: ",m=t.E,l=A.afn(A.Gt(A.a([A.aiE(-0.45,A.ain("assets/images/_.svg",75,"Hazel",75)),A.kl(o,B.wp,o,o,o,o,o,B.bY,o)],m),B.bX,B.c2,B.c3),100),k=A.a([],m)
+R(a){var s,r,q,p=this,o=null,n=" %\n                    Fehler: ",m=t.E,l=A.afn(A.Gt(A.a([A.aiE(-0.45,A.ain("assets/images/hazel.svg",75,"Hazel",75)),A.kl(o,B.wp,o,o,o,o,o,B.bY,o)],m),B.bX,B.c2,B.c3),100),k=A.a([],m)
 if(p.d&&p.e<J.bZ(p.a.c)){s=A.a([B.bj,A.kl(o,A.Ht(J.b_(p.a.c,p.e).a,o),o,o,o,o,o,o,300)],m)
 if(J.b_(p.a.c,p.e).c!=null)s.push(B.bj)
 if(J.b_(p.a.c,p.e).c!=null){r=J.b_(p.a.c,p.e).c
