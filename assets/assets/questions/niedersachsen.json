@@ -30,8 +30,8 @@
                 "isCorrect": false
             },
             {
-                "text": "Der Hund ist aufmerksam und freundlich-aufgeschlossen.",
-                "isCorrect": true
+                "text": "Der Hund droht selbstsicher.",
+                "isCorrect": false
             },
             {
                 "text": "Der Hund ist zurückhaltend und zeigt eine leichte Spielgeste.",
@@ -39,6 +39,28 @@
             },
             {
                 "text": "Der Hund ist müde.",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Welchen Ausdruck zeigt dieser Hund?",
+        "image": "aufmerksam+freundlich.png",
+        "answers": [
+            {
+                "text": "Der Hund ist unsicher und leicht unterwürfig.",
+                "isCorrect": false
+            },
+            {
+                "text": "Der Hund ist freundlich-aufgeschlossen und aufmerksam.",
+                "isCorrect": true
+            },
+            {
+                "text": "Der Hund ist müde.",
+                "isCorrect": false
+            },
+            {
+                "text": "Der Hund ist aggressiv.",
                 "isCorrect": false
             }
         ]
@@ -136,19 +158,41 @@
         "image": "ängstlich+unterwürfig.png",
         "answers": [
             {
-                "text": "Der Hund ist ängstlich.",
-                "isCorrect": true
-            },
-            {
-                "text": "Der Hund ist unterwürfig.",
-                "isCorrect": true
+                "text": "Der Hund ist neutral bis aufmerksam.",
+                "isCorrect": false
             },
             {
                 "text": "Der Hund ist müde.",
                 "isCorrect": false
             },
             {
+                "text": "Der Hund ist aggressiv.",
+                "isCorrect": false
+            },
+            {
+                "text": "Der Hund ist unterwürfig.",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Welchen Ausdruck zeigt dieser Hund?",
+        "image": "ängstlich+unterwürfig.png",
+        "answers": [
+            {
                 "text": "Der Hund markiert seine Umgebung.",
+                "isCorrect": false
+            },
+            {
+                "text": "Der Hund ist stark ängstlich.",
+                "isCorrect": true
+            },
+            {
+                "text": "Der Hund ist aggressiv.",
+                "isCorrect": false
+            },
+            {
+                "text": "Der Hund zeigt Beschwichtigungsverhalten.",
                 "isCorrect": false
             }
         ]
@@ -158,11 +202,11 @@
         "image": "freundlich+unterwürfig+beschwichtigend.png",
         "answers": [
             {
-                "text": "Der Hund zeigt beschwichtigendes Verhalten.",
-                "isCorrect": true
+                "text": "Der Hund ist neutral bis aufmerksam.",
+                "isCorrect": false
             },
             {
-                "text": "Der Hund ist ängstlich.",
+                "text": "Der Hund ist aggressiv.",
                 "isCorrect": false
             },
             {
@@ -172,6 +216,28 @@
             {
                 "text": "Der Hund ist freundlich-unterwürfig.",
                 "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Welchen Ausdruck zeigt dieser Hund?",
+        "image": "freundlich+unterwürfig+beschwichtigend.png",
+        "answers": [
+            {
+                "text": "Der Hund ist ängstlich.",
+                "isCorrect": false
+            },
+            {
+                "text": "Der Hund zeigt Beschwichtigungsverhalten.",
+                "isCorrect": true
+            },
+            {
+                "text": "Der Hund zeigt eine Spielaufforderung.",
+                "isCorrect": false
+            },
+            {
+                "text": "Der Hund droht unsicher.",
+                "isCorrect": false
             }
         ]
     },
