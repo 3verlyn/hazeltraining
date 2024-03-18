@@ -184,7 +184,7 @@
                 "isCorrect": false
             },
             {
-                "text": "Der Hund ist stark ängstlich.",
+                "text": "Der Hund ist ängstlich.",
                 "isCorrect": true
             },
             {
@@ -192,7 +192,7 @@
                 "isCorrect": false
             },
             {
-                "text": "Der Hund zeigt Beschwichtigungsverhalten.",
+                "text": "Der Hund macht eine Spielgeste.",
                 "isCorrect": false
             }
         ]
